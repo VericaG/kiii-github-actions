@@ -53,4 +53,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: vericag/kii-demo-01:latest
+          tags: vericag/kiii-github-actions:latest
